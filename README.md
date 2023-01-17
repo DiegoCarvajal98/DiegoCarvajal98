@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DiegoCarvajal98
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on projects involving robot manipulation
-- 📫 Anyone can reach me through Twitter as @dcarvajal98
+- 💞️ I’m looking to collaborate on projects involving robotics
+- 📫 Anyone can reach me through email at diego98cs@gmail.com
 
 <!---
 DiegoCarvajal98/DiegoCarvajal98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
