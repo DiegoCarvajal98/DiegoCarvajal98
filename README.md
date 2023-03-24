@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DiegoCarvajal98
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on projects involving robotics
-- 📫 Anyone can reach me through email at diego98cs@gmail.com
+Hi, I’m Diego, I am a Mechatronics Engineering student pending graduation in April 2023. I am interested in software development for robotics and I have knowledge of python, C++, and ROS. I have experience in mechanical and electronic design. I am a person that works well in teams but can work independently when needed. I am also looking to learn new things constantly, allowing me to take over new challenges. Anyone can reach me through email at diego98cs@gmail.com
 
 <!---
 DiegoCarvajal98/DiegoCarvajal98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
